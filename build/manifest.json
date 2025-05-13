@@ -1,0 +1,63 @@
+{
+  "index.css": {
+    "file": "assets/index-f2b21485.css",
+    "src": "index.css"
+  },
+  "index.html": {
+    "assets": [
+      "assets/logo-364e3c18.png",
+      "assets/menu-e0613cf3.svg",
+      "assets/stellar_icon-7f9dae11.png",
+      "assets/siborg-92b30eef.jpeg"
+    ],
+    "css": [
+      "assets/index-f2b21485.css"
+    ],
+    "dynamicImports": [
+      "node_modules/@walletconnect/modal-ui/dist/index.js"
+    ],
+    "file": "assets/index-4cc6fadf.js",
+    "isEntry": true,
+    "src": "index.html"
+  },
+  "node_modules/@walletconnect/modal-ui/dist/index.js": {
+    "file": "assets/index-8501c5fb.js",
+    "imports": [
+      "index.html"
+    ],
+    "isDynamicEntry": true,
+    "src": "node_modules/@walletconnect/modal-ui/dist/index.js"
+  },
+  "src/assets/close.svg": {
+    "file": "assets/close-945782e8.svg",
+    "src": "src/assets/close.svg"
+  },
+  "src/assets/grid-01.svg": {
+    "file": "assets/grid-01-4bd148be.svg",
+    "src": "src/assets/grid-01.svg"
+  },
+  "src/assets/in_hero1.png": {
+    "file": "assets/in_hero1-3412ce52.png",
+    "src": "src/assets/in_hero1.png"
+  },
+  "src/assets/logo.png": {
+    "file": "assets/logo-364e3c18.png",
+    "src": "src/assets/logo.png"
+  },
+  "src/assets/menu.svg": {
+    "file": "assets/menu-e0613cf3.svg",
+    "src": "src/assets/menu.svg"
+  },
+  "src/assets/siborg.jpeg": {
+    "file": "assets/siborg-92b30eef.jpeg",
+    "src": "src/assets/siborg.jpeg"
+  },
+  "src/assets/stellar_icon.png": {
+    "file": "assets/stellar_icon-7f9dae11.png",
+    "src": "src/assets/stellar_icon.png"
+  },
+  "src/assets/ticket.png": {
+    "file": "assets/ticket-90dbe1d1.png",
+    "src": "src/assets/ticket.png"
+  }
+}
